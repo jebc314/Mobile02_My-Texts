@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Texts</string>
+    <string name="submit_button_value">Submit</string>
+    <string name="firstname_edittext_hint">Enter your first name</string>
+    <string name="lastname_edittext_hint">Enter your last name</string>
+    <string name="display_textview__value">You name here!</string>
+    <string name="warning_value">Don\'t Click the BUTTON!</string>
+    <string name="forbidden_button_value">Don\'t Click Me!</string>
+    <string-array name="message_array">
+        <item>Hey! Why did you click the button?</item>
+        <item>Again?! I already told you not to! >:(</item>
+        <item>Just stop this nonsense right now!</item>
+        <item>Please I\'m begging you. :(((</item>
+        <item>There are other buttons to click</item>
+        <item>You just don\'t give up don\'t you.</item>
+        <item>ALRIGHT!! STop!!</item>
+        <item>Ok. I give up. Please press the button</item>
+        <item>Dangit the reverse psychology did not work.</item>
+        <item>*Sigh* I\'m going to give you another chance.</item>
+    </string-array>
+</resources>
+
